@@ -1,2 +1,5 @@
-# criando-meu-primeiro-reposit-rio
-Repositório Criado para Compartilhar o Meu Aprendizado do Curso
+# Meu Primeiro Projeto
+Repositório Criado para Compartilhar o Aprendizado do Curso Git/Github
+
+## Links Úteis
+[Site para Estudos](https://www.w3schools.com/)
